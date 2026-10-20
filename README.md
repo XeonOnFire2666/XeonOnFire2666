@@ -10,7 +10,7 @@
                                                                                 and Telegram Mini Apps.
 I care about clean architecture and backends that stay calm when traffic doesn't.*
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=E6EDF3&vCenter=true&width=640&lines=Costruisco+piattaforme+e-commerce+per+Telegram;Progetto+sistemi+event-driven+fault-tolerant;Trasformo+la+routine+manuale+in+automazione" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=E6EDF3&vCenter=true&width=640&lines=Building+E-commerce+platforms+for+Telegram;Engineering+fault-tolerant+event-driven+systems;Turning+manual+routine+into+automation" alt="typing" />
 
 
 ![Now](https://img.shields.io/badge/ORA-Telegram_E--commerce-e6edf3?style=for-the-badge&labelColor=21262d)
