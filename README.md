@@ -1,4 +1,3 @@
-# *slyr*
 ## *———————————————————slyr——————————————————————*
 **full-Stack Developer | C# / .NET & React & Flutter**
 
