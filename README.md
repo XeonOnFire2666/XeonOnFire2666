@@ -1,8 +1,8 @@
 ## *—————————————————— slyr ——————————————————*
 
-<img width="736" height="414" alt="b60623fbccf989dd9d0ed34aa533c96c" src="https://github.com/user-attachments/assets/d8c341ae-bbbe-47af-bffa-dcdefbf9054c" />
+<img width="436" height="414" alt="b60623fbccf989dd9d0ed34aa533c96c" src="https://github.com/user-attachments/assets/d8c341ae-bbbe-47af-bffa-dcdefbf9054c" />
 
-**full-stack Developer | C# / .NET & React & Flutter**
+
 
 *I turn messy business ideas into fast, reliable products: web apps, APIs, microservices, and Telegram Mini Apps. I care about clean architecture and backends that stay calm when traffic doesn't.*
 
