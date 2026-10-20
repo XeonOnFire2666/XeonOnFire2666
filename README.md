@@ -1,4 +1,4 @@
-## *———————————————————slyr————————————————————*
+## *———————————————————slyr——————————————————*
 **full-Stack Developer | C# / .NET & React & Flutter**
 
 *I turn messy business ideas into fast, reliable products: web apps, APIs, microservices, and Telegram Mini Apps. I care about clean architecture and backends that stay calm when traffic doesn't.*
