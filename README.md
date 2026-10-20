@@ -53,3 +53,4 @@ It combines completed tasks, locally analyzed commit quality, and Gemini-rated Y
 ---
 
 [![Telegram](https://img.shields.io/badge/WRITE_ME-Telegram-F08CB4?style=for-the-badge&logo=telegram&logoColor=1a1a1a&labelColor=21262d)](https://t.me/arabicaa666)
+[![Live demo](https://img.shields.io/badge/LIVE_DEMO-@onlyshop00__bot-F08CB4?style=for-the-badge&logo=telegram&logoColor=F08CB4&labelColor=21262d)](https://t.me/onlyshop00_bot)
