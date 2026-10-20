@@ -1,9 +1,13 @@
 ## *—————————————————— slyr ——————————————————*
+
+<img width="736" height="414" alt="b60623fbccf989dd9d0ed34aa533c96c" src="https://github.com/user-attachments/assets/d8c341ae-bbbe-47af-bffa-dcdefbf9054c" />
+
 **full-stack Developer | C# / .NET & React & Flutter**
 
 *I turn messy business ideas into fast, reliable products: web apps, APIs, microservices, and Telegram Mini Apps. I care about clean architecture and backends that stay calm when traffic doesn't.*
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=E6EDF3&vCenter=true&width=640&lines=Building+E-commerce+platforms+for+Telegram;Engineering+fault-tolerant+event-driven+systems;Turning+manual+routine+into+automation" alt="typing" />
+
 
 ![Now](https://img.shields.io/badge/NOW-Telegram_E--commerce-e6edf3?style=for-the-badge&labelColor=21262d)
 ![Focus](https://img.shields.io/badge/FOCUS-Event--driven_systems-e6edf3?style=for-the-badge&labelColor=21262d)
