@@ -19,7 +19,7 @@ I care about clean architecture and backends that stay calm when traffic doesn't
 
 ---
 
-### ◻ tech stack
+### ◻ la stack
 
 **Backend & Architecture:**
 ![C#](https://img.shields.io/badge/C%23-F08CB4?style=flat-square&logo=c-sharp&logoColor=1a1a1a)
@@ -43,7 +43,7 @@ I care about clean architecture and backends that stay calm when traffic doesn't
 
 ---
 
-### ◻ featured projects
+### ◻ la projects
 
 **[OnlyShop](https://github.com/XeonOnFire2666/OnlyShop)** 
 *E-commerce ecosystem for Telegram.*
