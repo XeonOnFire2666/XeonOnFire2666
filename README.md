@@ -1,4 +1,4 @@
-## *—————————————————— slyr ——————————————————*
+## *——————————————————— slyr ———————————————————*
 
 <p align="center">
   <img width="468" alt="slyr" src="https://github.com/user-attachments/assets/d8c341ae-bbbe-47af-bffa-dcdefbf9054c" />
