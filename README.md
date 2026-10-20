@@ -1,17 +1,17 @@
-# slyr
-### Hi, I'm slyr
-**Full-Stack Developer | C# / .NET & React & Flutter**
+# *slyr*
+## *—————————————————————————————————————————slyr———————————————————————————————————————————————————*
+**full-Stack Developer | C# / .NET & React & Flutter**
 
-I build scalable web applications, REST APIs, Microservices, and Telegram Mini Apps. Focused on clean architecture, high-performance backend solutions, and cloud infrastructure.
+*I turn messy business ideas into fast, reliable products: web apps, APIs, microservices, and Telegram Mini Apps. I care about clean architecture and backends that stay calm when traffic doesn't.*
 
-- 🔭 I’m currently working on: **E-commerce platforms for Telegram** (Mini Apps & Bots)
-- 🌱 I’m currently exploring: **Microservices architecture and Event-Driven Design**
-- 💬 Ask me about: **ASP.NET Core, EF Core, Telegram Bot API, Flutter**
-- 📫 How to reach me: **[Telegram](https://t.me/arabicaa666)**
+- ⬛ I’m currently working on: **E-commerce platforms for Telegram** (Mini Apps & Bots)
+- ⬜ Currently focused on: **building fault-tolerant, event-driven systems that scale under real traffic**
+- ⬛ Ask me about: **automating business processes, Telegram bots for sales and support, mobile apps, and backends that hold up under real load**
+- ⬜ How to reach me: **[Telegram](https://t.me/arabicaa666)**
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 tech stack
 
 **Backend & Architecture:**
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -35,7 +35,7 @@ I build scalable web applications, REST APIs, Microservices, and Telegram Mini A
 
 ---
 
-### 🚀 Featured Projects
+### ⬛ featured Projects
 
 **[OnlyShop](https://github.com/XeonOnFire2666/OnlyShop)** 
 *E-commerce ecosystem for Telegram.*
@@ -43,5 +43,5 @@ A full-cycle platform consisting of a Telegram Mini App for customers and a Reac
 `Stack:` C#, Clean Architecture, React, PostgreSQL, AWS S3 / Supabase, Telegram API.
 
 **[Sirena](https://github.com/XeonOnFire2666/Sirena)** 
-*Sirena is a Windows app (.NET 10, WPF) that scores your workday as one honest percentage instead of counting hours. It combines completed tasks, locally analyzed commit quality, and Gemini-rated YouTube videos. Data lives in SQLite and syncs through an ASP.NET API.*
+*Sirena is a desktop app (.NET 10, Avalonia) that scores your workday as one honest percentage instead of counting hours. It combines completed tasks, locally analyzed commit quality, and Gemini-rated YouTube videos. Data lives in SQLite and syncs through an ASP.NET API.*
 `Stack:` C#, Flutter, PostgreSQL.
