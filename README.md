@@ -4,9 +4,9 @@
 *I turn messy business ideas into fast, reliable products: web apps, APIs, microservices, and Telegram Mini Apps. I care about clean architecture and backends that stay calm when traffic doesn't.*
 
 - ⬛ I’m currently working on: **E-commerce platforms for Telegram** (Mini Apps & Bots)
-- ⬜ Currently focused on: **building fault-tolerant, event-driven systems that scale under real traffic**
+- ⬜ *Currently focused on: **building fault-tolerant, event-driven systems that scale under real traffic***
 - ⬛ Ask me about: **automating business processes, Telegram bots for sales and support, mobile apps, and backends that hold up under real load**
-- ⬜ How to reach me: **[Telegram](https://t.me/arabicaa666)**
+- ⬜ *How to reach me: **[Telegram](https://t.me/arabicaa666)***
 
 ---
 
@@ -42,5 +42,5 @@ A full-cycle platform consisting of a Telegram Mini App for customers and a Reac
 `Stack:` C#, Clean Architecture, React, PostgreSQL, AWS S3 / Supabase, Telegram API.
 
 **[Sirena](https://github.com/XeonOnFire2666/Sirena)** 
-*Sirena is a desktop app (.NET 10, Avalonia) that scores your workday as one honest percentage instead of counting hours. It combines completed tasks, locally analyzed commit quality, and Gemini-rated YouTube videos. Data lives in SQLite and syncs through an ASP.NET API.*
+* is a desktop app (.NET 10, Avalonia) that scores your workday as one honest percentage instead of counting hours. It combines completed tasks, locally analyzed commit quality, and Gemini-rated YouTube videos. Data lives in SQLite and syncs through an ASP.NET API.*
 `Stack:` C#, Flutter, PostgreSQL.
