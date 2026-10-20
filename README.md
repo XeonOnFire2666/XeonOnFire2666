@@ -10,12 +10,12 @@
                                                                                 and Telegram Mini Apps.
 I care about clean architecture and backends that stay calm when traffic doesn't.*
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=E6EDF3&vCenter=true&width=640&lines=Building+E-commerce+platforms+for+Telegram;Engineering+fault-tolerant+event-driven+systems;Turning+manual+routine+into+automation" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=E6EDF3&vCenter=true&width=640&lines=Costruisco+piattaforme+e-commerce+per+Telegram;Progetto+sistemi+event-driven+fault-tolerant;Trasformo+la+routine+manuale+in+automazione" alt="typing" />
 
 
-![Now](https://img.shields.io/badge/NOW-Telegram_E--commerce-e6edf3?style=for-the-badge&labelColor=21262d)
-![Focus](https://img.shields.io/badge/FOCUS-Event--driven_systems-e6edf3?style=for-the-badge&labelColor=21262d)
-![Open](https://img.shields.io/badge/OPEN_TO-Freelance_%26_Product-e6edf3?style=for-the-badge&labelColor=21262d)
+![Now](https://img.shields.io/badge/ORA-Telegram_E--commerce-e6edf3?style=for-the-badge&labelColor=21262d)
+![Focus](https://img.shields.io/badge/FOCUS-Sistemi_event--driven-e6edf3?style=for-the-badge&labelColor=21262d)
+![Open](https://img.shields.io/badge/APERTO_A-Freelance_%26_Product-e6edf3?style=for-the-badge&labelColor=21262d)
 
 ---
 
