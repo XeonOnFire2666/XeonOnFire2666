@@ -18,24 +18,24 @@
 ### ⬛ tech stack
 
 **Backend & Architecture:**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-E8A0BF?style=flat-square&logo=c-sharp&logoColor=1a1a1a)
+![.NET](https://img.shields.io/badge/.NET-E8A0BF?style=flat-square&logo=dotnet&logoColor=1a1a1a)
+![EF Core](https://img.shields.io/badge/EF_Core-E8A0BF?style=flat-square&logo=dotnet&logoColor=1a1a1a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E8A0BF?style=flat-square&logo=postgresql&logoColor=1a1a1a)
+![Redis](https://img.shields.io/badge/Redis-E8A0BF?style=flat-square&logo=redis&logoColor=1a1a1a)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-E8A0BF?style=flat-square&logo=apache-kafka&logoColor=1a1a1a)
 
 **Frontend & Mobile:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-E8A0BF?style=flat-square&logo=react&logoColor=1a1a1a)
+![Flutter](https://img.shields.io/badge/Flutter-E8A0BF?style=flat-square&logo=flutter&logoColor=1a1a1a)
+![JavaScript](https://img.shields.io/badge/JavaScript-E8A0BF?style=flat-square&logo=javascript&logoColor=1a1a1a)
+![HTML5](https://img.shields.io/badge/HTML5-E8A0BF?style=flat-square&logo=html5&logoColor=1a1a1a)
 
 **Cloud & Integrations:**
-![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3-E8A0BF?style=flat-square&logo=amazon-aws&logoColor=1a1a1a)
+![Supabase](https://img.shields.io/badge/Supabase-E8A0BF?style=flat-square&logo=supabase&logoColor=1a1a1a)
+![Telegram](https://img.shields.io/badge/Telegram-E8A0BF?style=flat-square&logo=telegram&logoColor=1a1a1a)
+![Git](https://img.shields.io/badge/Git-E8A0BF?style=flat-square&logo=git&logoColor=1a1a1a)
 
 ---
 
