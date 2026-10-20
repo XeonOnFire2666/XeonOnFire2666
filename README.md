@@ -1,6 +1,6 @@
 ## *—————————————————— slyr ——————————————————*
 
-<img width="436" height="414" alt="b60623fbccf989dd9d0ed34aa533c96c" src="https://github.com/user-attachments/assets/d8c341ae-bbbe-47af-bffa-dcdefbf9054c" />
+<img width="736" height="414" alt="b60623fbccf989dd9d0ed34aa533c96c" src="https://github.com/user-attachments/assets/d8c341ae-bbbe-47af-bffa-dcdefbf9054c" />
 
 
 
