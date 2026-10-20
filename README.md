@@ -49,3 +49,7 @@ A full-cycle platform consisting of a Telegram Mini App for customers and a Reac
 **[Sirena](https://github.com/XeonOnFire2666/Sirena)** 
 *Desktop productivity tracker that scores your workday as one honest percentage instead of counting hours.*
 It combines completed tasks, locally analyzed commit quality, and Gemini-rated YouTube videos, and sounds a siren when you zone out. Data lives in SQLite and syncs through an ASP.NET API. `Stack:` C#, .NET 10, Avalonia, SQLite, ASP.NET Core, PostgreSQL.
+
+---
+
+[![Telegram](https://img.shields.io/badge/WRITE_ME-Telegram-F08CB4?style=for-the-badge&logo=telegram&logoColor=1a1a1a&labelColor=21262d)](https://t.me/arabicaa666)
