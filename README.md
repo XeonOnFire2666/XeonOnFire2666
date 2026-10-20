@@ -1,8 +1,8 @@
 ## *—————————————————— slyr ——————————————————*
 
-<img width="468" alt="b60623fbccf989dd9d0ed34aa533c96c" src="https://github.com/user-attachments/assets/d8c341ae-bbbe-47af-bffa-dcdefbf9054c" />
-
-
+<p align="center">
+  <img width="468" alt="slyr" src="https://github.com/user-attachments/assets/d8c341ae-bbbe-47af-bffa-dcdefbf9054c" />
+</p>
 
 *I turn messy business ideas into fast, reliable products: web apps, APIs, microservices, and Telegram Mini Apps. I care about clean architecture and backends that stay calm when traffic doesn't.*
 
